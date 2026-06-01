@@ -8,7 +8,6 @@
 Este es un proyecto de automatización de pruebas de extremo a extremo (E2E) desarrollado con **Playwright** y **TypeScript** para el sitio web de práctica e-commerce **[SauceDemo](https://www.saucedemo.com/)**.
 
 El objetivo de este proyecto es simular y validar el flujo completo de compra de un producto, asegurando que todos los componentes clave de la tienda online funcionen de manera integrada y correcta. Continuemos.  
-
 ---
 
 ## 🚀 Características del Proyecto
